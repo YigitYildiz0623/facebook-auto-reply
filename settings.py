@@ -22,7 +22,7 @@ DESCRIPT = '''
 
 ##### YOLLAR #####
 #ChromeDriver PATH
-PYTHON_PATH = '/Users/yigityildiz/Desktop/Facebook_Bot_Project/venv/bin/python'
+PYTHON_PATH = ''
 
 
 #Sohbet Kutusu XPATH
